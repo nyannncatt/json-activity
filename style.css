@@ -1,6 +1,6 @@
 
     body {
-        background-image: url('https://wallpaperaccess.com/full/382677.jpg');
+        background-image: url('backgroundz.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         font-family: system-ui;
@@ -50,7 +50,7 @@ header .shopping span{
 }
 .list .item img{
     width: 90%;
-    height: 430px;
+    height: 420x;
     object-position: 0%;
 }
 .list .item .title{
@@ -60,7 +60,7 @@ header .shopping span{
     margin: 10px;
 }
 .list .item button{
-    background-color: #1C1F25;
+    background-color: #9b255c;
     color: #fff;
     width: 100%;
     padding: 10px;
@@ -98,7 +98,7 @@ header .shopping span{
 
 }
 .card .checkOut div{
-    background-color: #E8BC0E;
+    background-color: #b85985;
     width: 100%;
     height: 70px;
     display: flex;
@@ -126,7 +126,7 @@ header .shopping span{
     width: 90%;
 }
 .listCard li button{
-    background-color: #fff5;
+    background-color: rgba(185, 27, 114, 0.767);
     border: none;
 }
 .listCard .count{
